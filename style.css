@@ -1,0 +1,142 @@
+body {
+	background-color: #F6F9FC;
+	 color: #F6F9FC);
+     font-weight: 600
+	 font-family: 'Lora', serif;
+
+
+	 font-size: 29px
+	}
+	
+
+  h1 {
+
+	font-size: 50px;
+	color: #ED5263;
+	font-family: 'Oswald', sans-serif;
+
+	font-weight:700
+
+
+
+}
+
+
+
+h2{
+	color:#1177F6;
+    font-size: 24px
+    font-family: 'Oswald', sans-serif;
+    text-decoration: bold;
+    font-weight:700
+
+
+
+}
+a {
+color: red;
+	font-family: 'Oswald', ;
+	text-decoration: bold;
+	transition: color 0.3s ease;
+}
+a:hover {
+	color: #F07E4E;
+	text-decoration: bold;
+}
+
+.reseaux {
+	padding-bottom: 20px
+}
+
+.img-circle {
+
+	border-radius: 50% 
+}
+.shadowed {
+	box-shadow: 5px 5px 3px black;
+}
+
+#leader {
+	border: 5px solid red;
+	
+}
+
+h2 {
+
+	margin-left: 30px
+
+
+
+}
+
+@media  (max-width: 960px) {
+	.container {
+		width: 700px
+	}
+}
+
+
+#intro {
+
+margin-left: 40px;
+padding-bottom: 10px;
+}
+#para {
+	padding-bottom: 10px;
+	padding: 10px;
+}
+
+#header {
+
+	margin-left: 200px;
+	background-size: cover;
+
+}
+
+.container {
+
+		width: 700px;
+		margin: 40px auto
+
+}
+
+@media (max-width: 760px){
+			.container{
+						width: 600px;
+			}
+}
+
+
+ 
+.card-white {
+           background-color: #B1DCEF;
+           padding: 40px
+           box-shadow: 100px 10px 30px yellow;
+           border-radius: 40px;
+           margin: 30px 10px;
+           text-align: center;
+        
+
+
+}
+ 
+.img-circle {
+           border-radius: 50%
+}
+
+ 
+
+ 
+#intro p{
+           margin-bottom: 40px;
+}
+ 
+
+ 
+
+       
+
+
+
+
+
